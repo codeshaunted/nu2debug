@@ -9,3 +9,7 @@ To install the mod, you will need [mod_loader](https://github.com/lcdr/mod_loade
 
 # Usage
 To keep this mod as simple and to the point as possible, the keys for the different debug options are hardcoded, feel free to fork this and make a version with a config. The keys are `F3` to toggle the FPS counter, `F4` to toggle the position display and `F5` to toggle the level loading display.
+
+# Screenshots
+![](https://cdn.discordapp.com/attachments/765144687479750676/826345405028761600/unknown.png)
+![](https://media.discordapp.net/attachments/539440851441418250/826346466959949844/unknown.png)
